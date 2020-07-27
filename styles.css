@@ -289,6 +289,18 @@ a.firstLink:visited {
     width: 100%;
   }
 
+  .order0{
+    order: 0;
+  }
+
+  .order1{
+    order: 1;
+  }
+
+  .order2{
+    order: 2;
+  }
+
   .getContact{
     padding: 0 5%;
   }
